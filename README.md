@@ -16,7 +16,7 @@
 
 ## websites
 
-- [shindakun.dev](https://shindakun.dev)
+- <a rel="me" href="https://shindakun.dev">shindakun.dev</a>
 - [shindakun.net](https://shindakun.net)
 
 ## social
