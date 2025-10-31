@@ -18,7 +18,7 @@
 ## websites
 
 - <a rel="me" href="https://shindakun.dev">shindakun.dev</a>
-- [shindakun.net](https://shindakun.net)
+- <a rel="me" href="https://shindakun.net">shindakun.net</a>
 
 ## social
 
