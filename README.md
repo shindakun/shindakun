@@ -10,6 +10,7 @@
   - .c
   - .cpp
   - .js
+  - .java
   - .go
   - .html
   - .css
