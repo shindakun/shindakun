@@ -2,7 +2,7 @@
 
 ## about
 
-- Employed at [Lytics](https://lytics.com)
+- Employed at ~[Lytics](https://lytics.com)~ [ContentStack](https://www.contentstack.com/)
 - Has written code at one point or another for years
 - Languages "known" at some point
   - .pas
