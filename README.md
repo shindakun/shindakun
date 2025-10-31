@@ -25,4 +25,5 @@
 - [twitch](https://twitch.tv.shindakun)
 - [github](https://github.com/shindakun)
 - [gitlab](https://gitlab.com/shindakun)
+- [tangled](https://tangled.org/did:plc:7vckjdgokbtlyd4mh7tgn426)
 - and others I've forgotten
