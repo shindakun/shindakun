@@ -22,7 +22,7 @@
 
 ## social
 
-- [twitter](https://twitter.com/shindakun)
+- [bluesky](https://bsky.app/profile/shindakun.net)
 - [twitch](https://twitch.tv.shindakun)
 - [github](https://github.com/shindakun)
 - [gitlab](https://gitlab.com/shindakun)
